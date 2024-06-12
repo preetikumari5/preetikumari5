@@ -2,7 +2,7 @@
 - 👀 I’m interested in diving into new technologies and learning them.
 - 🌱 I’m currently learning ROS and front end web development.
 - 📫 How to reach me 147963preetikumari@gmail.com
-- 
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/preetii.kumari__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="preetii.kumari_" height="30" width="40" /></a>
