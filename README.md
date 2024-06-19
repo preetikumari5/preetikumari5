@@ -1,4 +1,5 @@
 <h1 align="center">👋 Hi, I’m Preeti Kumari</h1> 
+
 - 👀 I’m interested in diving into new technologies and learning them.
 - 🌱 I’m currently learning ROS and front end web development.
 - 📫 How to reach me 147963preetikumari@gmail.com
