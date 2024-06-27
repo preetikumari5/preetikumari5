@@ -23,7 +23,7 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityapandey23&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=preetikumari5&icon=0&color=6)](https://visitcount.itsvg.in)
 <!---
 preetikumari5/preetikumari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
