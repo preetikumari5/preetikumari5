@@ -21,6 +21,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetikumari5&show_icons=true&locale=en" alt="preetikumari5" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetikumari5&" alt="preetikumari5" /></p>
 
+
+---
+[![](https://visitcount.itsvg.in/api?id=adityapandey23&icon=0&color=6)](https://visitcount.itsvg.in)
 <!---
 preetikumari5/preetikumari5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
