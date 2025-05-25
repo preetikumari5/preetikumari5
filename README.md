@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Preeti Kumari</h1> 
 
 - 👀 I’m interested in diving into new technologies and learning them.
-- 🌱 I’m currently learning DSA and full stack web development.
+- 🌱 I’m currently learning DSA and Machine Learning.
 - 📫 How to reach me 147963preetikumari@gmail.com
   
 <h3 align="left">Connect with me:</h3>
