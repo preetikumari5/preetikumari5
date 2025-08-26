@@ -22,23 +22,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetikumari5&show_icons=true&locale=en" alt="preetikumari5" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetikumari5&" alt="preetikumari5" /></p>
 
-<!---
-<table>
-      <thead>
-            <tr>
-                  <th>
-                        <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=preetikumari5&show_icons=true&theme=radical"></p>
-                  </th>
-                  <th>
-                        <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?username=preetikumari5"> </p>
-                  </th>
-            </tr>
-      </thead>
-</table>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=preetikumari5&langs_count=10"> </p> ---->
+<a href="https://github.com/preetikumari5" rel="nofollow">
+  <img src="https://ghchart.rshah.org/2196f3/preetikumari5" 
+       alt="GitHub Contributions" 
+       style="max-width:100%;">
+</a>
 
-
-<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" rel="nofollow"><img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" alt="Hackerearth" data-canonical-src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/github-user-contribution.svg" style="max-width:100%;"></a>
 <!------
 [![](https://visitcount.itsvg.in/api?id=preetikumari5&icon=0&color=6)](https://visitcount.itsvg.in)-->
 <!---
