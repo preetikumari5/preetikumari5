@@ -22,11 +22,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=preetikumari5&show_icons=true&locale=en" alt="preetikumari5" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=preetikumari5&" alt="preetikumari5" /></p>
 
-<a href="https://github.com/preetikumari5" rel="nofollow">
-  <img src="https://ghchart.rshah.org/2196f3/preetikumari5" 
-       alt="GitHub Contributions" 
-       style="max-width:100%;">
-</a>
 
 <!------
 [![](https://visitcount.itsvg.in/api?id=preetikumari5&icon=0&color=6)](https://visitcount.itsvg.in)-->
